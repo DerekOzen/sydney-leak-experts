@@ -96,5 +96,21 @@
     "updatedAt": "2026-11-07T03:51:55.307Z",
     "updatedBy": "derek",
     "category": "Services"
+  },
+  {
+    "id": "pg-8",
+    "path": "/pool-leak-detection-sydney",
+    "type": "page",
+    "title": "Pool Leak Detection Sydney | Sydney Leak Experts",
+    "seoTitle": "Pool Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Pool losing water in Sydney? We confirm the leak and pinpoint the source — shell, fittings or surrounding waterproofing — with non-invasive detection. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-07T03:52:22.466Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-07T03:52:22.466Z",
+    "updatedBy": "derek"
   }
 ]
