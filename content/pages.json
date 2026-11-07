@@ -207,10 +207,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
-    "updatedAt": "2026-11-07T04:02:25.639Z",
+    "status": "published",
+    "updatedAt": "2026-11-07T04:02:37.025Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-07T04:02:25.639Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Services"
   }
 ]
