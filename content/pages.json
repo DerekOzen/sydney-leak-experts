@@ -140,10 +140,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
-    "updatedAt": "2026-11-07T03:59:14.614Z",
+    "status": "published",
+    "updatedAt": "2026-11-07T03:59:28.122Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-07T03:59:14.614Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Services"
   }
 ]
