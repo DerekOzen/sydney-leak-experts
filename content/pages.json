@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/home-2",
     "type": "page",
     "title": "Home",
     "seoTitle": "Sydney Leak Experts | Wet-Area Leak Detection Sydney",
@@ -10,11 +10,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-11-07T03:06:23.635Z",
+    "updatedAt": "2026-11-07T03:38:31.309Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-07T03:06:11.872Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -82,7 +82,7 @@
   },
   {
     "id": "pg-6",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Sydney Leak Experts | Wet-Area Leak Detection Sydney",
@@ -90,10 +90,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
-    "updatedAt": "2026-11-07T03:38:22.777Z",
+    "status": "published",
+    "updatedAt": "2026-11-07T03:38:31.309Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-07T03:38:22.777Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
