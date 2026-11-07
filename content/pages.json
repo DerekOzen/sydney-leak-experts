@@ -47,5 +47,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-07T03:07:36.115Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-4",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You | Sydney Leak Experts",
+    "seoDescription": "Thanks — your leak inspection request has been received. A specialist will be in touch shortly.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-07T03:08:07.889Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T03:08:07.889Z",
+    "createdBy": "derek"
   }
 ]
