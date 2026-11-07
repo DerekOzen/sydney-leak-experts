@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Sydney Leak Experts | Wet-Area Leak Detection Sydney",
+    "seoDescription": "Sydney's wet-area leak detection specialists. Shower, bathroom, balcony, pool, roof and ceiling leaks pinpointed without the damage, with clear findings. From $299 inc GST. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-07T02:45:29.426Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T02:45:29.426Z",
+    "createdBy": "derek"
+  }
+]
