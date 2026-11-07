@@ -63,5 +63,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-07T03:08:07.889Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-5",
+    "path": "/book-an-inspection",
+    "type": "page",
+    "title": "Book an Inspection",
+    "seoTitle": "Book an Inspection | Sydney Leak Experts",
+    "seoDescription": "Book a wet-area leak inspection in Sydney — $299 inc GST for the first hour on site. Non-invasive detection and a clear written report, 6 days a week.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-07T03:08:47.733Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T03:08:47.733Z",
+    "createdBy": "derek"
   }
 ]
