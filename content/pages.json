@@ -279,5 +279,21 @@
     "createdAt": "2026-11-07T04:07:19.588Z",
     "createdBy": "derek",
     "category": "Services"
+  },
+  {
+    "id": "pg-19",
+    "path": "/wall-leak-detection-sydney",
+    "type": "page",
+    "title": "Wall Leak Detection Sydney",
+    "seoTitle": "Wall Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Damp or staining in a wall in Sydney? We locate where water is getting into the cavity — wet area behind or external ingress — non-invasive detection. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-07T04:08:02.254Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T04:08:02.254Z",
+    "createdBy": "derek"
   }
 ]
