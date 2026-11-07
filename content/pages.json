@@ -129,5 +129,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-07T03:54:07.501Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-10",
+    "path": "/balcony-leak-detection-sydney",
+    "type": "page",
+    "title": "Balcony Leak Detection Sydney",
+    "seoTitle": "Balcony & Terrace Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Leaking balcony or terrace in Sydney? We trace water through the tiles and membrane back to the source — non-invasive, no demolition. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-07T03:59:14.614Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T03:59:14.614Z",
+    "createdBy": "derek"
   }
 ]
