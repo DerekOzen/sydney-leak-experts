@@ -246,5 +246,21 @@
     "createdAt": "2026-11-07T04:05:40.057Z",
     "createdBy": "derek",
     "category": "Services"
+  },
+  {
+    "id": "pg-17",
+    "path": "/strata-apartment-leak-detection-sydney",
+    "type": "service",
+    "title": "Strata Apartment Leak Detection Sydney",
+    "seoTitle": "Strata & Apartment Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Strata and apartment leak detection in Sydney — inter-floor and common-property wet-area leaks located non-invasively and documented for owners, committees and insurers. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-07T04:06:32.393Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T04:06:32.393Z",
+    "createdBy": "derek"
   }
 ]
