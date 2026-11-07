@@ -113,5 +113,21 @@
     "updatedAt": "2026-11-07T03:52:37.691Z",
     "updatedBy": "derek",
     "category": "Services"
+  },
+  {
+    "id": "pg-9",
+    "path": "/water-damage-mould-detection-sydney",
+    "type": "service",
+    "title": "Water Damage Mould Detection Sydney",
+    "seoTitle": "Water Damage & Mould Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Damp, water damage or mould with no obvious source? We locate the hidden wet-area leak behind it with non-invasive moisture mapping and thermal imaging. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-07T03:54:07.501Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T03:54:07.501Z",
+    "createdBy": "derek"
   }
 ]
