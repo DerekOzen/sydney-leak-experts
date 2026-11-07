@@ -262,5 +262,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-07T04:06:32.393Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-18",
+    "path": "/thermal-imaging-leak-detection-sydney",
+    "type": "page",
+    "title": "Thermal Imaging Leak Detection Sydney",
+    "seoTitle": "Thermal Imaging Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Thermal imaging leak detection in Sydney — non-invasive detection of hidden wet-area leaks behind tile, render and slab, with moisture mapping. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-07T04:07:19.588Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T04:07:19.588Z",
+    "createdBy": "derek"
   }
 ]
