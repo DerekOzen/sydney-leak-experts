@@ -15,5 +15,21 @@
     "createdAt": "2026-11-07T03:06:11.872Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/about-us",
+    "type": "page",
+    "title": "About Us",
+    "seoTitle": "About | Sydney Leak Experts | Wet-Area Leak Specialists",
+    "seoDescription": "Wet-area leak detection specialists serving Greater Sydney. We find and prove shower, balcony, pool and ceiling leaks without the damage — not a plumber, by design.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-07T03:06:58.936Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T03:06:58.936Z",
+    "createdBy": "derek"
   }
 ]
