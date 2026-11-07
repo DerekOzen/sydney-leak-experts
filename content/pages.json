@@ -229,5 +229,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-07T04:04:51.514Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-16",
+    "path": "/shower-leak-detection-sydney",
+    "type": "page",
+    "title": "Shower Leak Detection Sydney",
+    "seoTitle": "Shower Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Leaking shower in Sydney? We pinpoint where water is escaping the recess — failed membrane, grout or fitting — with non-invasive detection, no demolition. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-07T04:05:40.057Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T04:05:40.057Z",
+    "createdBy": "derek"
   }
 ]
