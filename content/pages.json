@@ -196,5 +196,21 @@
     "createdAt": "2026-11-07T04:01:44.392Z",
     "createdBy": "derek",
     "category": "Services"
+  },
+  {
+    "id": "pg-14",
+    "path": "/leak-detection-reports-sydney",
+    "type": "page",
+    "title": "Leak Detection Reports Sydney",
+    "seoTitle": "Leak Detection Reports Sydney | Insurance & Strata | Sydney Leak Experts",
+    "seoDescription": "Leak detection reports in Sydney for insurance and strata — documented location, cause and photo evidence from a non-invasive inspection. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-07T04:02:25.639Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T04:02:25.639Z",
+    "createdBy": "derek"
   }
 ]
