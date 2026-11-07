@@ -8,14 +8,14 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
     ],
-    "updatedAt": "2026-11-07T03:43:27.044Z",
+    "updatedAt": "2026-11-07T03:44:20.486Z",
     "settings": {
       "sticky": false,
       "autoHide": false,
       "scrollBreakpoint": 60,
       "transparent": false,
       "shadow": "none",
-      "mobileMenu": false,
+      "mobileMenu": true,
       "mobileBreakpoint": 900
     },
     "layout": {
