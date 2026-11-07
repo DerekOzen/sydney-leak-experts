@@ -163,5 +163,21 @@
     "createdAt": "2026-11-07T04:00:09.193Z",
     "createdBy": "derek",
     "category": "Services"
+  },
+  {
+    "id": "pg-12",
+    "path": "/celing-leak-detection-sydney",
+    "type": "service",
+    "title": "Celing Leak Detection Sydney",
+    "seoTitle": "Ceiling Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Ceiling leaking or stained in Sydney? We trace it back to the real source above — bathroom, balcony or roof — with non-invasive detection. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-07T04:01:00.766Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-07T04:01:00.766Z",
+    "createdBy": "derek"
   }
 ]
