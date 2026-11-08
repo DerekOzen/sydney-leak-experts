@@ -371,10 +371,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-08T22:53:28.707Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-08T22:53:28.707Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-08T22:53:50.072Z",
+    "updatedBy": "derek",
+    "category": "Locations"
   }
 ]
