@@ -618,5 +618,21 @@
     "updatedAt": "2026-11-08T23:42:08.862Z",
     "updatedBy": "derek",
     "category": "Blog"
+  },
+  {
+    "id": "pg-41",
+    "path": "/blog/efflorescence-vs-rising-damp-vs-an-active-leak",
+    "type": "post",
+    "title": "Efflorescence vs Rising Damp vs an Active Leak | Sydney Leak Experts",
+    "seoTitle": "Efflorescence vs Rising Damp vs an Active Leak | Sydney Leak Experts",
+    "seoDescription": "How to tell efflorescence, rising damp and an active leak apart — they look similar but have different causes and fixes. From Sydney's wet-area leak specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-08T23:42:59.205Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-08T23:42:59.205Z",
+    "updatedBy": "derek"
   }
 ]
