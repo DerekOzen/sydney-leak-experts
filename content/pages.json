@@ -358,7 +358,7 @@
     "status": "published",
     "createdAt": "2026-11-08T22:50:32.683Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-08T23:00:11.296Z",
+    "updatedAt": "2026-11-08T23:01:13.151Z",
     "updatedBy": "derek"
   },
   {
@@ -388,10 +388,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "draft",
     "createdAt": "2026-11-08T22:54:23.376Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-08T23:01:14.650Z",
+    "updatedAt": "2026-11-08T22:54:23.376Z",
     "updatedBy": "derek"
   },
   {
@@ -420,10 +420,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-08T22:55:12.248Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-08T22:55:12.248Z",
+    "updatedAt": "2026-11-08T23:01:17.715Z",
     "updatedBy": "derek"
   },
   {
