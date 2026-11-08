@@ -585,5 +585,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-08T23:10:56.683Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-39",
+    "path": "/blog",
+    "type": "post",
+    "title": "Insights | Leak Detection Guides | Sydney Leak Experts",
+    "seoTitle": "Insights | Leak Detection Guides | Sydney Leak Experts",
+    "seoDescription": "Plain-English leak detection guides from Sydney Leak Experts — spotting shower, ceiling and balcony leaks, what detection costs, insurance, and how it works.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-08T23:12:51.700Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-08T23:12:51.700Z",
+    "updatedBy": "derek"
   }
 ]
