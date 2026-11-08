@@ -457,5 +457,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-08T22:56:56.056Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-30",
+    "path": "/leak-detection-sydney/parramatta",
+    "type": "location",
+    "title": "Leak Detection Parramatta | Sydney Leak Experts",
+    "seoTitle": "Leak Detection Parramatta | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in Parramatta, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-08T22:57:15.257Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-08T22:57:15.257Z",
+    "updatedBy": "derek"
   }
 ]
