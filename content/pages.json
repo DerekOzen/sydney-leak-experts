@@ -360,5 +360,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-08T22:50:32.683Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-24",
+    "path": "/leak-detection-sydney/sutherland-shire",
+    "type": "page",
+    "title": "Leak Detection Georges River (St George) | Sydney Leak Experts",
+    "seoTitle": "Leak Detection Georges River (St George) | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in Georges River (St George), Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-08T22:53:28.707Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-08T22:53:28.707Z",
+    "updatedBy": "derek"
   }
 ]
