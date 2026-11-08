@@ -564,10 +564,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-08T22:59:10.052Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-08T22:59:10.052Z",
+    "updatedAt": "2026-11-08T23:08:00.505Z",
     "updatedBy": "derek"
   },
   {
