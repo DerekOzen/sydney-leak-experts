@@ -328,5 +328,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-08T22:45:51.815Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-22",
+    "path": "/leak-detection-sydney/canterbury-bankstown",
+    "type": "location",
+    "title": "Leak Detection Canterbury-Bankstown | Sydney Leak Experts",
+    "seoTitle": "Leak Detection Canterbury-Bankstown | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in Canterbury-Bankstown, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-08T22:48:20.070Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-08T22:48:20.070Z",
+    "updatedBy": "derek"
   }
 ]
