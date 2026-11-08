@@ -666,5 +666,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-08T23:43:53.400Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-44",
+    "path": "/blog/moisture-meter-diy-vs-professional-leak-detection",
+    "type": "post",
+    "title": "Moisture Meter: DIY vs Professional Leak Detection | Sydney Leak Experts",
+    "seoTitle": "Moisture Meter: DIY vs Professional Leak Detection | Sydney Leak Experts",
+    "seoDescription": "What a DIY moisture meter can and can't do, and what professional leak detection adds — thermal imaging, calibrated readings and testing. From Sydney's leak specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-08T23:44:12.772Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-08T23:44:12.772Z",
+    "updatedBy": "derek"
   }
 ]
