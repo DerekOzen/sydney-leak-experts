@@ -507,23 +507,6 @@
     "updatedBy": "derek"
   },
   {
-    "id": "pg-33",
-    "path": "/leak-detection-sydney/sutherland-shire",
-    "type": "location",
-    "title": "Leak Detection Sutherland Shire | Sydney Leak Experts",
-    "seoTitle": "Leak Detection Sutherland Shire | Sydney Leak Experts",
-    "seoDescription": "Wet-area leak detection in Sutherland Shire, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
-    "layout": "mockup",
-    "headerPartId": "header-2",
-    "footerPartId": "footer-2",
-    "status": "deleted",
-    "createdAt": "2026-11-08T22:58:09.773Z",
-    "createdBy": "derek",
-    "updatedAt": "2026-11-08T23:09:03.485Z",
-    "updatedBy": "derek",
-    "isHome": false
-  },
-  {
     "id": "pg-34",
     "path": "/leak-detection-sydney/the-hills",
     "type": "location",
