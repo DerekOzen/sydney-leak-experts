@@ -698,5 +698,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-08T23:44:31.105Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-46",
+    "path": "/blog/what-does-leak-detection-cost-in-sydney",
+    "type": "post",
+    "title": "What Does Leak Detection Cost in Sydney? | Sydney Leak Experts",
+    "seoTitle": "What Does Leak Detection Cost in Sydney? | Sydney Leak Experts",
+    "seoDescription": "A straight answer on leak detection pricing in Sydney — what the first hour costs, what you're paying for, and what moves the price — from the wet-area specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-08T23:45:06.471Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-08T23:45:06.471Z",
+    "updatedBy": "derek"
   }
 ]
