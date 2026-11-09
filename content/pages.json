@@ -170,10 +170,12 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:06:02.261Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T04:01:00.766Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/sle-ceiling-hero-stain.jpg",
+    "featuredImageAlt": "Tracing a ceiling water stain back to its source"
   },
   {
     "id": "pg-13",
