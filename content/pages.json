@@ -130,11 +130,13 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:02:43.981Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T03:59:14.614Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "featuredImage": "/uploads/sle-balcony-hero-terrace.jpg",
+    "featuredImageAlt": "Inspecting a tiled Sydney balcony for a waterproofing leak"
   },
   {
     "id": "pg-11",
