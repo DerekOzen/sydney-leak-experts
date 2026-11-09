@@ -45,10 +45,12 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:05:45.880Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T03:08:47.733Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/sle-process-book.jpg",
+    "featuredImageAlt": "Tell us what youre seeing"
   },
   {
     "id": "pg-7",
