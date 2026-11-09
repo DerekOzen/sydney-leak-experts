@@ -717,8 +717,10 @@
     "status": "published",
     "createdAt": "2026-11-08T23:45:06.471Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-09T06:05:13.404Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/sle-blog-cost-quote.jpg",
+    "featuredImageAlt": "Agreeing a fixed leak detection price on site"
   },
   {
     "id": "pg-47",
