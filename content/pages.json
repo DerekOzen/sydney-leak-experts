@@ -42,10 +42,11 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-11-09T02:32:02.033Z",
+    "updatedAt": "2026-11-09T02:32:28.461Z",
     "updatedBy": "joshua",
     "createdAt": "2026-11-07T03:08:07.889Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "noindex": true
   },
   {
     "id": "pg-5",
