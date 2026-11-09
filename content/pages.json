@@ -16,23 +16,6 @@
     "createdBy": "derek"
   },
   {
-    "id": "pg-3",
-    "path": "/contact",
-    "type": "page",
-    "title": "Contact",
-    "seoTitle": "Contact | Sydney Leak Experts | 1300 863 001",
-    "seoDescription": "Contact Sydney Leak Experts for wet-area leak detection across Greater Sydney. Call 1300 863 001 or send an enquiry. Open 6 days a week.",
-    "layout": "mockup",
-    "headerPartId": "header-2",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "updatedAt": "2026-11-09T02:39:25.812Z",
-    "updatedBy": "joshua",
-    "createdAt": "2026-11-07T03:07:36.115Z",
-    "createdBy": "derek",
-    "isHome": false
-  },
-  {
     "id": "pg-4",
     "path": "/thank-you",
     "type": "page",
