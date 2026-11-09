@@ -663,8 +663,10 @@
     "status": "published",
     "createdAt": "2026-11-08T23:43:53.400Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-09T06:04:22.727Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/sle-blog-shower-signs.jpg",
+    "featuredImageAlt": "Checking a tiled shower recess for signs of a leak"
   },
   {
     "id": "pg-44",
