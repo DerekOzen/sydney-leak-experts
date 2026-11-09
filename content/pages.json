@@ -207,11 +207,13 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:06:49.509Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T04:02:25.639Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "featuredImage": "/uploads/sle-reports-hero-document.jpg",
+    "featuredImageAlt": "A documented leak detection report with photo evidence"
   },
   {
     "id": "pg-15",
