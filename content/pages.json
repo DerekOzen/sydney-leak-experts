@@ -103,9 +103,11 @@
     "status": "published",
     "createdAt": "2026-11-07T03:52:22.466Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
-    "category": "Services"
+    "updatedAt": "2026-11-09T06:11:07.355Z",
+    "updatedBy": "sebastian",
+    "category": "Services",
+    "featuredImage": "/uploads/sle-pool-hero-inspection.jpg",
+    "featuredImageAlt": "Specialist inspecting a Sydney pool for a leak"
   },
   {
     "id": "pg-9",
