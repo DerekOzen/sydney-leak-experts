@@ -304,11 +304,13 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:12:53.013Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T04:08:02.254Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "featuredImage": "/uploads/sle-wall-hero-damp.jpg",
+    "featuredImageAlt": "Moisture mapping a damp internal wall in Sydney"
   },
   {
     "id": "pg-20",
