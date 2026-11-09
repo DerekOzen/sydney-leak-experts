@@ -10,10 +10,12 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:02:27.048Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T03:06:58.936Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/sle-about-specialist-inspection.jpg",
+    "featuredImageAlt": "Sydney Leak Experts specialist inspecting a wet area"
   },
   {
     "id": "pg-4",
