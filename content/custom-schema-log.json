@@ -1,0 +1,191 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mw9tapeq-hrhu",
+      "at": "2026-11-09T22:07:28.802Z",
+      "count": 45,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-B9424FFB"
+        },
+        {
+          "path": "/about-us",
+          "newRecordId": "SCHEMA-F8E6B44D"
+        },
+        {
+          "path": "/book-an-inspection",
+          "newRecordId": "SCHEMA-885A4485"
+        },
+        {
+          "path": "/leak-detection-sydney",
+          "newRecordId": "SCHEMA-5941A5C3"
+        },
+        {
+          "path": "/pool-leak-detection-sydney",
+          "newRecordId": "SCHEMA-98C58EB0"
+        },
+        {
+          "path": "/water-damage-mould-detection-sydney",
+          "newRecordId": "SCHEMA-AAEBC3BB"
+        },
+        {
+          "path": "/balcony-leak-detection-sydney",
+          "newRecordId": "SCHEMA-73D02819"
+        },
+        {
+          "path": "/bathroom-leak-detection-sydney",
+          "newRecordId": "SCHEMA-350DF95C"
+        },
+        {
+          "path": "/ceiling-leak-detection-sydney",
+          "newRecordId": "SCHEMA-C0AC940A"
+        },
+        {
+          "path": "/leak-detection-cost-sydney",
+          "newRecordId": "SCHEMA-4818C472"
+        },
+        {
+          "path": "/leak-detection-reports-sydney",
+          "newRecordId": "SCHEMA-24B297FC"
+        },
+        {
+          "path": "/roof-leak-detection-sydney",
+          "newRecordId": "SCHEMA-AB9107F8"
+        },
+        {
+          "path": "/shower-leak-detection-sydney",
+          "newRecordId": "SCHEMA-54C96BF0"
+        },
+        {
+          "path": "/strata-apartment-leak-detection-sydney",
+          "newRecordId": "SCHEMA-EA50D4FB"
+        },
+        {
+          "path": "/thermal-imaging-leak-detection-sydney",
+          "newRecordId": "SCHEMA-FA8C55C5"
+        },
+        {
+          "path": "/wall-leak-detection-sydney",
+          "newRecordId": "SCHEMA-4B9F3323"
+        },
+        {
+          "path": "/leak-detection-sydney/blacktown",
+          "newRecordId": "SCHEMA-E60C3F9A"
+        },
+        {
+          "path": "/leak-detection-sydney/campbelltown",
+          "newRecordId": "SCHEMA-5A99D38A"
+        },
+        {
+          "path": "/leak-detection-sydney/canterbury-bankstown",
+          "newRecordId": "SCHEMA-1A7CA087"
+        },
+        {
+          "path": "/leak-detection-sydney/fairfield",
+          "newRecordId": "SCHEMA-362102E0"
+        },
+        {
+          "path": "/leak-detection-sydney/georges-river-st-george",
+          "newRecordId": "SCHEMA-9ADE5AAD"
+        },
+        {
+          "path": "/leak-detection-sydney/hornsby",
+          "newRecordId": "SCHEMA-A1AF017B"
+        },
+        {
+          "path": "/leak-detection-sydney/ku-ring-gai",
+          "newRecordId": "SCHEMA-D820623F"
+        },
+        {
+          "path": "/leak-detection-sydney/liverpool",
+          "newRecordId": "SCHEMA-9CEB6A49"
+        },
+        {
+          "path": "/leak-detection-sydney/northern-beaches",
+          "newRecordId": "SCHEMA-722ED80E"
+        },
+        {
+          "path": "/leak-detection-sydney/north-sydney-lower-north-shore",
+          "newRecordId": "SCHEMA-FC03F62B"
+        },
+        {
+          "path": "/leak-detection-sydney/parramatta",
+          "newRecordId": "SCHEMA-830744C0"
+        },
+        {
+          "path": "/leak-detection-sydney/penrith",
+          "newRecordId": "SCHEMA-228FD5FE"
+        },
+        {
+          "path": "/leak-detection-sydney/ryde",
+          "newRecordId": "SCHEMA-618A0352"
+        },
+        {
+          "path": "/leak-detection-sydney/the-hills",
+          "newRecordId": "SCHEMA-96F794D4"
+        },
+        {
+          "path": "/leak-detection-sydney/city-of-sydney",
+          "newRecordId": "SCHEMA-6B108D24"
+        },
+        {
+          "path": "/leak-detection-sydney/eastern-suburbs",
+          "newRecordId": "SCHEMA-A314DAC6"
+        },
+        {
+          "path": "/leak-detection-sydney/inner-west",
+          "newRecordId": "SCHEMA-54CEDB2C"
+        },
+        {
+          "path": "/leak-detection-sydney/sutherland-shire",
+          "newRecordId": "SCHEMA-BE26B97E"
+        },
+        {
+          "path": "/blog",
+          "newRecordId": "SCHEMA-A676BF69"
+        },
+        {
+          "path": "/blog/does-home-insurance-cover-leak-detection",
+          "newRecordId": "SCHEMA-BB100E9A"
+        },
+        {
+          "path": "/blog/efflorescence-vs-rising-damp-vs-an-active-leak",
+          "newRecordId": "SCHEMA-8E346099"
+        },
+        {
+          "path": "/blog/how-long-does-a-leak-detection-inspection-take",
+          "newRecordId": "SCHEMA-3D9336E1"
+        },
+        {
+          "path": "/blog/how-to-tell-if-your-shower-is-leaking",
+          "newRecordId": "SCHEMA-12BD60C4"
+        },
+        {
+          "path": "/blog/moisture-meter-diy-vs-professional-leak-detection",
+          "newRecordId": "SCHEMA-1C359B04"
+        },
+        {
+          "path": "/blog/signs-of-a-balcony-or-terrace-waterproofing-failure",
+          "newRecordId": "SCHEMA-C6BD5095"
+        },
+        {
+          "path": "/blog/what-does-leak-detection-cost-in-sydney",
+          "newRecordId": "SCHEMA-85132953"
+        },
+        {
+          "path": "/blog/why-is-my-ceiling-leaking-from-the-bathroom-above",
+          "newRecordId": "SCHEMA-9B1E7BC2"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-823FA91F"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-3817C649"
+        }
+      ]
+    }
+  ]
+}
