@@ -735,8 +735,10 @@
     "status": "published",
     "createdAt": "2026-11-08T23:45:25.378Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-09T06:05:29.423Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/sle-blog-ceiling-bathroom.jpg",
+    "featuredImageAlt": "Water stain on a ceiling below an upstairs bathroom"
   },
   {
     "id": "pg-48",
