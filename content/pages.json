@@ -59,11 +59,13 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:02:09.792Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T03:39:23.292Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/sle-hero-main-leak-inspection.jpg",
+    "featuredImageAlt": "Leak detection specialist inspecting a Sydney shower"
   },
   {
     "id": "pg-6",
