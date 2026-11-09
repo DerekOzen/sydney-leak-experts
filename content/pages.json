@@ -681,8 +681,10 @@
     "status": "published",
     "createdAt": "2026-11-08T23:44:12.772Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-09T06:04:40.033Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/sle-blog-moisture-meter.jpg",
+    "featuredImageAlt": "Comparing a DIY moisture meter with professional detection equipment"
   },
   {
     "id": "pg-45",
