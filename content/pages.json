@@ -149,11 +149,13 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:03:00.863Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T04:00:09.193Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "featuredImage": "/uploads/sle-bathroom-hero-floor.jpg",
+    "featuredImageAlt": "Inspecting a Sydney bathroom floor and vanity for leaks"
   },
   {
     "id": "pg-12",
