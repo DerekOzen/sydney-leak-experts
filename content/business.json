@@ -3,9 +3,19 @@
   "legalName": "Sydney Leak Experts",
   "phone": "1300 863 001",
   "email": " info@impresstiling.com.au",
-  "url": "sydneyleakexperts.com.au",
+  "url": "https://sydneyleakexperts.com.au/",
   "state": "NSW",
   "suburb": "Sydney",
   "country": "AU",
-  "areaServed": "Sydney"
+  "areaServed": "Sydney",
+  "streetAddress": "20 Bangor Road, Middle Dural",
+  "postcode": "2158",
+  "openingHours": "Monday to Friday 7:00am to 5:00pm Saturday 8:00am to 2:00pm",
+  "priceRange": "$$-$$$$",
+  "latitude": "-33.62926766891658",
+  "longitude": "151.0113413",
+  "logo": "https://sydneyleakexperts.com.au/uploads/sydney-leak-experts-logo-dfa9971d.png",
+  "image": "https://sydneyleakexperts.com.au/uploads/sle-hero-main-leak-inspection.jpg",
+  "facebook": "https://www.facebook.com/Impresstiling.com.au/",
+  "instagram": "https://www.instagram.com/impress_tiling/"
 }
