@@ -608,9 +608,11 @@
     "status": "published",
     "createdAt": "2026-11-08T23:14:51.896Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
-    "category": "Blog"
+    "updatedAt": "2026-11-09T06:03:32.238Z",
+    "updatedBy": "sebastian",
+    "category": "Blog",
+    "featuredImage": "/uploads/sle-blog-insurance-report.jpg",
+    "featuredImageAlt": "A leak detection report prepared for an insurance claim"
   },
   {
     "id": "pg-41",
