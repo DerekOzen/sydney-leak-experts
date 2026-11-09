@@ -45,7 +45,7 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
     ],
-    "updatedAt": "2026-11-07T03:44:00.090Z",
+    "updatedAt": "2026-11-09T02:51:27.282Z",
     "layout": {
       "enabled": false,
       "rows": [
@@ -62,7 +62,8 @@
       ],
       "accent": "#0f766e",
       "maxWidth": 1200
-    }
+    },
+    "deleted": true
   },
   {
     "id": "footer-3",
