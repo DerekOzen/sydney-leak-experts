@@ -230,10 +230,12 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:11:35.238Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T04:04:51.514Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/sle-roof-hero-flat.jpg",
+    "featuredImageAlt": "Inspecting a Sydney flat roof membrane for a leak"
   },
   {
     "id": "pg-16",
