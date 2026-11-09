@@ -120,10 +120,12 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-09T06:13:08.942Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-07T03:54:07.501Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/sle-wdm-hero-damp-ceiling.jpg",
+    "featuredImageAlt": "Moisture mapping water damage on a Sydney ceiling"
   },
   {
     "id": "pg-10",
