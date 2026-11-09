@@ -645,8 +645,10 @@
     "status": "published",
     "createdAt": "2026-11-08T23:43:34.417Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-09T06:04:06.038Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/sle-blog-inspection-time.jpg",
+    "featuredImageAlt": "Specialist carrying out a leak detection inspection on site"
   },
   {
     "id": "pg-43",
