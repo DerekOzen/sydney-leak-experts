@@ -84,9 +84,11 @@
     "status": "published",
     "createdAt": "2026-11-07T03:51:36.950Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
-    "updatedBy": "joshua",
-    "category": "Services"
+    "updatedAt": "2026-11-09T06:07:06.070Z",
+    "updatedBy": "sebastian",
+    "category": "Services",
+    "featuredImage": "/uploads/sle-hub-detection-overview.jpg",
+    "featuredImageAlt": "Sydney Leak Experts tracing a wet-area leak"
   },
   {
     "id": "pg-8",
