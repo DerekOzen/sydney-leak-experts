@@ -1475,5 +1475,24 @@
     "featuredImage": "/uploads/sle-blog-insurance-report.jpg",
     "featuredImageAlt": "A leak detection report prepared for an insurance claim",
     "isHome": false
+  },
+  {
+    "id": "pg-87",
+    "path": "/blog/how-long-does-a-leak-detection-inspection-take-copy",
+    "type": "post",
+    "title": "How Long Does a Leak Detection Inspection Take? | Sydney Leak Experts (Copy)",
+    "seoTitle": "How Long Does a Leak Detection Inspection Take? | Sydney Leak Experts",
+    "seoDescription": "How long a wet-area leak detection inspection takes, what makes it quicker or slower, and what happens during the visit — from Sydney's leak specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:51:16.055Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:51:16.055Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/sle-blog-inspection-time.jpg",
+    "featuredImageAlt": "Specialist carrying out a leak detection inspection on site",
+    "isHome": false
   }
 ]
