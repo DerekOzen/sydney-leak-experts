@@ -1328,5 +1328,22 @@
     "updatedAt": "2026-11-23T13:40:19.131Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-79",
+    "path": "/leak-detection-sydney/fairfield-copy",
+    "type": "location",
+    "title": "Leak Detection Fairfield | Sydney Leak Experts (Copy)",
+    "seoTitle": "Leak Detection Fairfield | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in Fairfield, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:40:37.131Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:40:37.131Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
