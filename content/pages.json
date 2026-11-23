@@ -993,5 +993,24 @@
     "featuredImage": "/uploads/sle-wdm-hero-damp-ceiling.jpg",
     "featuredImageAlt": "Moisture mapping water damage on a Sydney ceiling",
     "isHome": false
+  },
+  {
+    "id": "pg-60",
+    "path": "/strata-apartment-leak-detection-sydney-copy",
+    "type": "service",
+    "title": "Strata Apartment Leak Detection Sydney (Copy)",
+    "seoTitle": "Strata & Apartment Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Strata and apartment leak detection in Sydney — inter-floor and common-property wet-area leaks located non-invasively and documented for owners, committees and insurers. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-23T13:19:44.409Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-23T13:19:44.409Z",
+    "createdBy": "derek",
+    "featuredImage": "/uploads/sle-strata-hero-apartment.jpg",
+    "featuredImageAlt": "Inspecting an apartment for an inter-floor leak in Sydney",
+    "isHome": false
   }
 ]
