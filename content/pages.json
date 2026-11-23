@@ -1417,5 +1417,24 @@
     "featuredImage": "/uploads/sle-blog-ceiling-bathroom.jpg",
     "featuredImageAlt": "Water stain on a ceiling below an upstairs bathroom",
     "isHome": false
+  },
+  {
+    "id": "pg-84",
+    "path": "/blog/signs-of-a-balcony-or-terrace-waterproofing-failure-copy",
+    "type": "post",
+    "title": "Signs of a Balcony or Terrace Waterproofing Failure | Sydney Leak Experts (Copy)",
+    "seoTitle": "Signs of a Balcony or Terrace Waterproofing Failure | Sydney Leak Experts",
+    "seoDescription": "How to spot a failing balcony or terrace membrane early — the signs inside and out, why membranes fail, and what to do — from Sydney's wet-area leak specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:47:37.236Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:47:37.236Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/sle-blog-balcony-failure.jpg",
+    "featuredImageAlt": "Tiled balcony with signs of waterproofing failure",
+    "isHome": false
   }
 ]
