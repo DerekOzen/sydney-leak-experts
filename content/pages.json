@@ -1455,5 +1455,25 @@
     "featuredImage": "/uploads/sle-blog-cost-quote.jpg",
     "featuredImageAlt": "Agreeing a fixed leak detection price on site",
     "isHome": false
+  },
+  {
+    "id": "pg-86",
+    "path": "/blog/does-home-insurance-cover-leak-detection-copy",
+    "type": "page",
+    "title": "Does Home Insurance Cover Leak Detection? | Sydney Leak Experts (Copy)",
+    "seoTitle": "Does Home Insurance Cover Leak Detection? | Sydney Leak Experts",
+    "seoDescription": "How home insurance generally treats leak detection and water damage, where a detection report helps a claim, and what to check — general information from Sydney's leak specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:50:16.566Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:50:16.566Z",
+    "updatedBy": "derek",
+    "category": "Blog",
+    "featuredImage": "/uploads/sle-blog-insurance-report.jpg",
+    "featuredImageAlt": "A leak detection report prepared for an insurance claim",
+    "isHome": false
   }
 ]
