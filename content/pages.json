@@ -1624,5 +1624,22 @@
     "createdBy": "derek",
     "noindex": true,
     "isHome": false
+  },
+  {
+    "id": "pg-95",
+    "path": "/privacy-policy-copy",
+    "type": "page",
+    "title": "Privacy Policy (Copy)",
+    "seoTitle": "Privacy Policy | Sydney Leak Experts",
+    "seoDescription": "How Sydney Leak Experts collects, uses and protects your personal information.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-23T13:58:58.650Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-23T13:58:58.650Z",
+    "createdBy": "derek",
+    "isHome": false
   }
 ]
