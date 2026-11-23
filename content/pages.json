@@ -856,5 +856,25 @@
     "featuredImage": "/uploads/sle-bathroom-hero-floor.jpg",
     "featuredImageAlt": "Inspecting a Sydney bathroom floor and vanity for leaks",
     "isHome": false
+  },
+  {
+    "id": "pg-53",
+    "path": "/balcony-leak-detection-sydney-copy",
+    "type": "page",
+    "title": "Balcony Leak Detection Sydney (Copy)",
+    "seoTitle": "Balcony & Terrace Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Leaking balcony or terrace in Sydney? We trace water through the tiles and membrane back to the source — non-invasive, no demolition. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-23T13:11:38.650Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-23T13:11:38.650Z",
+    "createdBy": "derek",
+    "category": "Services",
+    "featuredImage": "/uploads/sle-balcony-hero-terrace.jpg",
+    "featuredImageAlt": "Inspecting a tiled Sydney balcony for a waterproofing leak",
+    "isHome": false
   }
 ]
