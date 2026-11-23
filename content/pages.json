@@ -1513,5 +1513,24 @@
     "featuredImage": "/uploads/sle-blog-efflorescence-damp.jpg",
     "featuredImageAlt": "White efflorescence salt deposits on a brick wall",
     "isHome": false
+  },
+  {
+    "id": "pg-89",
+    "path": "/blog/moisture-meter-diy-vs-professional-leak-detection-copy",
+    "type": "post",
+    "title": "Moisture Meter: DIY vs Professional Leak Detection | Sydney Leak Experts (Copy)",
+    "seoTitle": "Moisture Meter: DIY vs Professional Leak Detection | Sydney Leak Experts",
+    "seoDescription": "What a DIY moisture meter can and can't do, and what professional leak detection adds — thermal imaging, calibrated readings and testing. From Sydney's leak specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:53:17.641Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:53:17.641Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/sle-blog-moisture-meter.jpg",
+    "featuredImageAlt": "Comparing a DIY moisture meter with professional detection equipment",
+    "isHome": false
   }
 ]
