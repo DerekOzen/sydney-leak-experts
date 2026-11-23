@@ -1551,5 +1551,22 @@
     "featuredImage": "/uploads/sle-about-specialist-inspection.jpg",
     "featuredImageAlt": "Sydney Leak Experts specialist inspecting a wet area",
     "isHome": false
+  },
+  {
+    "id": "pg-91",
+    "path": "/blog-copy",
+    "type": "post",
+    "title": "Insights | Leak Detection Guides | Sydney Leak Experts (Copy)",
+    "seoTitle": "Insights | Leak Detection Guides | Sydney Leak Experts",
+    "seoDescription": "Plain-English leak detection guides from Sydney Leak Experts — spotting shower, ceiling and balcony leaks, what detection costs, insurance, and how it works.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:55:53.162Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:55:53.162Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
