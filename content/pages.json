@@ -1225,5 +1225,22 @@
     "updatedAt": "2026-11-23T13:34:33.846Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-73",
+    "path": "/leak-detection-sydney/the-hills-copy",
+    "type": "location",
+    "title": "Leak Detection The Hills | Sydney Leak Experts (Copy)",
+    "seoTitle": "Leak Detection The Hills | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in The Hills, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:34:51.342Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:34:51.342Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
