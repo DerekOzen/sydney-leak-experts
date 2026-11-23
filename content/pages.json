@@ -1012,5 +1012,25 @@
     "featuredImage": "/uploads/sle-strata-hero-apartment.jpg",
     "featuredImageAlt": "Inspecting an apartment for an inter-floor leak in Sydney",
     "isHome": false
+  },
+  {
+    "id": "pg-61",
+    "path": "/leak-detection-reports-sydney-copy",
+    "type": "page",
+    "title": "Leak Detection Reports Sydney (Copy)",
+    "seoTitle": "Leak Detection Reports Sydney | Insurance & Strata | Sydney Leak Experts",
+    "seoDescription": "Leak detection reports in Sydney for insurance and strata — documented location, cause and photo evidence from a non-invasive inspection. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-23T13:20:49.673Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-23T13:20:49.673Z",
+    "createdBy": "derek",
+    "category": "Services",
+    "featuredImage": "/uploads/sle-reports-hero-document.jpg",
+    "featuredImageAlt": "A documented leak detection report with photo evidence",
+    "isHome": false
   }
 ]
