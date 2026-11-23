@@ -1345,5 +1345,22 @@
     "updatedAt": "2026-11-23T13:41:16.076Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-80",
+    "path": "/leak-detection-sydney/campbelltown-copy",
+    "type": "location",
+    "title": "Leak Detection Campbelltown | Sydney Leak Experts (Copy)",
+    "seoTitle": "Leak Detection Campbelltown | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in Campbelltown, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:41:30.187Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:41:30.187Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
