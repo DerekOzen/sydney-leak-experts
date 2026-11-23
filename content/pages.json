@@ -1174,5 +1174,22 @@
     "updatedAt": "2026-11-23T13:31:43.625Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-70",
+    "path": "/leak-detection-sydney/hornsby-copy",
+    "type": "location",
+    "title": "Leak Detection Hornsby | Sydney Leak Experts (Copy)",
+    "seoTitle": "Leak Detection Hornsby | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in Hornsby, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:31:59.243Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:31:59.243Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
