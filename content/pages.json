@@ -1606,5 +1606,23 @@
     "featuredImage": "/uploads/sle-process-book.jpg",
     "featuredImageAlt": "Tell us what youre seeing",
     "isHome": false
+  },
+  {
+    "id": "pg-94",
+    "path": "/thank-you-copy",
+    "type": "page",
+    "title": "Thank You (Copy)",
+    "seoTitle": "Thank You | Sydney Leak Experts",
+    "seoDescription": "Thanks — your leak inspection request has been received. A specialist will be in touch shortly.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-23T13:58:17.886Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-23T13:58:17.886Z",
+    "createdBy": "derek",
+    "noindex": true,
+    "isHome": false
   }
 ]
