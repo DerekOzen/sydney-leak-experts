@@ -836,5 +836,25 @@
     "isHome": false,
     "featuredImage": "/uploads/sle-hero-main-leak-inspection.jpg",
     "featuredImageAlt": "Leak detection specialist inspecting a Sydney shower"
+  },
+  {
+    "id": "pg-52",
+    "path": "/bathroom-leak-detection-sydney-copy",
+    "type": "page",
+    "title": "Bathroom Leak Detection Sydney (Copy)",
+    "seoTitle": "Bathroom Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Bathroom leaking in Sydney? We trace leaks across the whole room — floor, vanity, toilet and waste points — with non-invasive detection. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-23T13:09:45.321Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-23T13:09:45.321Z",
+    "createdBy": "derek",
+    "category": "Services",
+    "featuredImage": "/uploads/sle-bathroom-hero-floor.jpg",
+    "featuredImageAlt": "Inspecting a Sydney bathroom floor and vanity for leaks",
+    "isHome": false
   }
 ]
