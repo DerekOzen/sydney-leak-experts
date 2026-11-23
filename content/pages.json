@@ -896,5 +896,24 @@
     "featuredImage": "/uploads/sle-pool-hero-inspection.jpg",
     "featuredImageAlt": "Specialist inspecting a Sydney pool for a leak",
     "isHome": false
+  },
+  {
+    "id": "pg-55",
+    "path": "/roof-leak-detection-sydney-copy",
+    "type": "service",
+    "title": "Roof Leak Detection Sydney (Copy)",
+    "seoTitle": "Roof Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Roof leaking in Sydney? We trace flat-roof, terrace and box-gutter leaks back to the failed membrane, flashing or seal — non-invasive detection. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-23T13:13:55.344Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-23T13:13:55.344Z",
+    "createdBy": "derek",
+    "featuredImage": "/uploads/sle-roof-hero-flat.jpg",
+    "featuredImageAlt": "Inspecting a Sydney flat roof membrane for a leak",
+    "isHome": false
   }
 ]
