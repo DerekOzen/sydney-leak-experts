@@ -1494,5 +1494,24 @@
     "featuredImage": "/uploads/sle-blog-inspection-time.jpg",
     "featuredImageAlt": "Specialist carrying out a leak detection inspection on site",
     "isHome": false
+  },
+  {
+    "id": "pg-88",
+    "path": "/blog/efflorescence-vs-rising-damp-vs-an-active-leak-copy",
+    "type": "post",
+    "title": "Efflorescence vs Rising Damp vs an Active Leak | Sydney Leak Experts (Copy)",
+    "seoTitle": "Efflorescence vs Rising Damp vs an Active Leak | Sydney Leak Experts",
+    "seoDescription": "How to tell efflorescence, rising damp and an active leak apart — they look similar but have different causes and fixes. From Sydney's wet-area leak specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:52:15.462Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:52:15.462Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/sle-blog-efflorescence-damp.jpg",
+    "featuredImageAlt": "White efflorescence salt deposits on a brick wall",
+    "isHome": false
   }
 ]
