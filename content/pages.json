@@ -1436,5 +1436,24 @@
     "featuredImage": "/uploads/sle-blog-balcony-failure.jpg",
     "featuredImageAlt": "Tiled balcony with signs of waterproofing failure",
     "isHome": false
+  },
+  {
+    "id": "pg-85",
+    "path": "/blog/what-does-leak-detection-cost-in-sydney-copy",
+    "type": "post",
+    "title": "What Does Leak Detection Cost in Sydney? | Sydney Leak Experts (Copy)",
+    "seoTitle": "What Does Leak Detection Cost in Sydney? | Sydney Leak Experts",
+    "seoDescription": "A straight answer on leak detection pricing in Sydney — what the first hour costs, what you're paying for, and what moves the price — from the wet-area specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:49:11.540Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:49:11.540Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/sle-blog-cost-quote.jpg",
+    "featuredImageAlt": "Agreeing a fixed leak detection price on site",
+    "isHome": false
   }
 ]
