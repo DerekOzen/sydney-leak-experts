@@ -817,5 +817,24 @@
     "featuredImage": "/uploads/sle-shower-hero-recess.jpg",
     "featuredImageAlt": "Specialist moisture mapping a Sydney shower recess",
     "isHome": false
+  },
+  {
+    "id": "pg-51",
+    "path": "/home-copy",
+    "type": "page",
+    "title": "Home (Copy)",
+    "seoTitle": "Sydney Leak Experts | Wet-Area Leak Detection Sydney",
+    "seoDescription": "Sydney's wet-area leak detection specialists. Shower, bathroom, balcony, pool, roof and ceiling leaks pinpointed without the damage, with clear findings. From $299 inc GST. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-23T13:07:08.474Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-23T13:07:08.474Z",
+    "createdBy": "derek",
+    "isHome": false,
+    "featuredImage": "/uploads/sle-hero-main-leak-inspection.jpg",
+    "featuredImageAlt": "Leak detection specialist inspecting a Sydney shower"
   }
 ]
