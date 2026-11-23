@@ -1089,5 +1089,22 @@
     "updatedAt": "2026-11-23T13:26:53.140Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-65",
+    "path": "/leak-detection-sydney/eastern-suburbs-copy",
+    "type": "location",
+    "title": "Leak Detection Eastern Suburbs | Sydney Leak Experts (Copy)",
+    "seoTitle": "Leak Detection Eastern Suburbs | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in Eastern Suburbs, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:27:21.899Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:27:21.899Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
