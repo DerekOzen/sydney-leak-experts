@@ -100,14 +100,15 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-07T03:52:22.466Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T06:11:07.355Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-23T23:21:52.189Z",
+    "updatedBy": "joshua",
     "category": "Services",
     "featuredImage": "/uploads/sle-pool-hero-inspection.jpg",
-    "featuredImageAlt": "Specialist inspecting a Sydney pool for a leak"
+    "featuredImageAlt": "Specialist inspecting a Sydney pool for a leak",
+    "isHome": false
   },
   {
     "id": "pg-9",
