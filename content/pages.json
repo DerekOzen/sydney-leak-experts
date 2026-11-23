@@ -934,5 +934,25 @@
     "featuredImage": "/uploads/sle-ceiling-hero-stain.jpg",
     "featuredImageAlt": "Tracing a ceiling water stain back to its source",
     "isHome": false
+  },
+  {
+    "id": "pg-57",
+    "path": "/wall-leak-detection-sydney-copy",
+    "type": "page",
+    "title": "Wall Leak Detection Sydney (Copy)",
+    "seoTitle": "Wall Leak Detection Sydney | Sydney Leak Experts",
+    "seoDescription": "Damp or staining in a wall in Sydney? We locate where water is getting into the cavity — wet area behind or external ingress — non-invasive detection. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "updatedAt": "2026-11-23T13:16:24.362Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-23T13:16:24.362Z",
+    "createdBy": "derek",
+    "category": "Services",
+    "featuredImage": "/uploads/sle-wall-hero-damp.jpg",
+    "featuredImageAlt": "Moisture mapping a damp internal wall in Sydney",
+    "isHome": false
   }
 ]
