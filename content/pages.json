@@ -1379,5 +1379,24 @@
     "updatedAt": "2026-11-23T13:43:10.917Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-82",
+    "path": "/blog/how-to-tell-if-your-shower-is-leaking-copy",
+    "type": "post",
+    "title": "How to Tell If Your Shower Is Leaking | Sydney Leak Experts (Copy)",
+    "seoTitle": "How to Tell If Your Shower Is Leaking | Sydney Leak Experts",
+    "seoDescription": "The signs of a leaking shower, the quick checks you can do yourself, and where shower leaks usually start — from Sydney's wet-area leak specialists.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:45:00.227Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:45:00.227Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/sle-blog-shower-signs.jpg",
+    "featuredImageAlt": "Checking a tiled shower recess for signs of a leak",
+    "isHome": false
   }
 ]
