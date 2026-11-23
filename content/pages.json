@@ -1362,5 +1362,22 @@
     "updatedAt": "2026-11-23T13:42:10.628Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-81",
+    "path": "/leak-detection-sydney/penrith-copy",
+    "type": "location",
+    "title": "Leak Detection Penrith | Sydney Leak Experts (Copy)",
+    "seoTitle": "Leak Detection Penrith | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in Penrith, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:42:31.443Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:42:31.443Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
