@@ -1123,5 +1123,22 @@
     "updatedAt": "2026-11-23T13:28:55.801Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-67",
+    "path": "/leak-detection-sydney/northern-beaches-copy",
+    "type": "location",
+    "title": "Leak Detection Northern Beaches | Sydney Leak Experts (Copy)",
+    "seoTitle": "Leak Detection Northern Beaches | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in Northern Beaches, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:29:12.941Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:29:12.941Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
