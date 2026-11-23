@@ -1140,5 +1140,22 @@
     "updatedAt": "2026-11-23T13:29:52.207Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-68",
+    "path": "/leak-detection-sydney/north-sydney-lower-north-shore-copy",
+    "type": "location",
+    "title": "Leak Detection North Sydney & Lower North Shore | Sydney Leak Experts (Copy)",
+    "seoTitle": "Leak Detection North Sydney & Lower North Shore | Sydney Leak Experts",
+    "seoDescription": "Wet-area leak detection in North Sydney & Lower North Shore, Sydney — shower, balcony, pool, roof and ceiling leaks found without the damage. $299 inc GST first hour. Call 1300 863 001.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T13:30:08.118Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-23T13:30:08.118Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
