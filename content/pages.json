@@ -81,14 +81,15 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-07T03:51:36.950Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T06:07:06.070Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "category": "Services",
     "featuredImage": "/uploads/sle-hub-detection-overview.jpg",
-    "featuredImageAlt": "Sydney Leak Experts tracing a wet-area leak"
+    "featuredImageAlt": "Sydney Leak Experts tracing a wet-area leak",
+    "isHome": false
   },
   {
     "id": "pg-8",
@@ -120,13 +121,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:13:08.942Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T03:54:07.501Z",
     "createdBy": "derek",
     "featuredImage": "/uploads/sle-wdm-hero-damp-ceiling.jpg",
-    "featuredImageAlt": "Moisture mapping water damage on a Sydney ceiling"
+    "featuredImageAlt": "Moisture mapping water damage on a Sydney ceiling",
+    "isHome": false
   },
   {
     "id": "pg-10",
@@ -138,14 +140,15 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:02:43.981Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T03:59:14.614Z",
     "createdBy": "derek",
     "category": "Services",
     "featuredImage": "/uploads/sle-balcony-hero-terrace.jpg",
-    "featuredImageAlt": "Inspecting a tiled Sydney balcony for a waterproofing leak"
+    "featuredImageAlt": "Inspecting a tiled Sydney balcony for a waterproofing leak",
+    "isHome": false
   },
   {
     "id": "pg-11",
@@ -157,14 +160,15 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:03:00.863Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T04:00:09.193Z",
     "createdBy": "derek",
     "category": "Services",
     "featuredImage": "/uploads/sle-bathroom-hero-floor.jpg",
-    "featuredImageAlt": "Inspecting a Sydney bathroom floor and vanity for leaks"
+    "featuredImageAlt": "Inspecting a Sydney bathroom floor and vanity for leaks",
+    "isHome": false
   },
   {
     "id": "pg-12",
@@ -176,13 +180,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:06:02.261Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T04:01:00.766Z",
     "createdBy": "derek",
     "featuredImage": "/uploads/sle-ceiling-hero-stain.jpg",
-    "featuredImageAlt": "Tracing a ceiling water stain back to its source"
+    "featuredImageAlt": "Tracing a ceiling water stain back to its source",
+    "isHome": false
   },
   {
     "id": "pg-13",
@@ -194,14 +199,15 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:06:33.861Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T04:01:44.392Z",
     "createdBy": "derek",
     "category": "Services",
     "featuredImage": "/uploads/sle-cost-hero-quote.jpg",
-    "featuredImageAlt": "Agreeing a fixed leak detection price on site in Sydney"
+    "featuredImageAlt": "Agreeing a fixed leak detection price on site in Sydney",
+    "isHome": false
   },
   {
     "id": "pg-14",
@@ -213,14 +219,15 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:06:49.509Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T04:02:25.639Z",
     "createdBy": "derek",
     "category": "Services",
     "featuredImage": "/uploads/sle-reports-hero-document.jpg",
-    "featuredImageAlt": "A documented leak detection report with photo evidence"
+    "featuredImageAlt": "A documented leak detection report with photo evidence",
+    "isHome": false
   },
   {
     "id": "pg-15",
@@ -232,13 +239,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:11:35.238Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T04:04:51.514Z",
     "createdBy": "derek",
     "featuredImage": "/uploads/sle-roof-hero-flat.jpg",
-    "featuredImageAlt": "Inspecting a Sydney flat roof membrane for a leak"
+    "featuredImageAlt": "Inspecting a Sydney flat roof membrane for a leak",
+    "isHome": false
   },
   {
     "id": "pg-16",
@@ -250,14 +258,15 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:11:51.688Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T04:05:40.057Z",
     "createdBy": "derek",
     "category": "Services",
     "featuredImage": "/uploads/sle-shower-hero-recess.jpg",
-    "featuredImageAlt": "Specialist moisture mapping a Sydney shower recess"
+    "featuredImageAlt": "Specialist moisture mapping a Sydney shower recess",
+    "isHome": false
   },
   {
     "id": "pg-17",
@@ -269,13 +278,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:12:07.107Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T04:06:32.393Z",
     "createdBy": "derek",
     "featuredImage": "/uploads/sle-strata-hero-apartment.jpg",
-    "featuredImageAlt": "Inspecting an apartment for an inter-floor leak in Sydney"
+    "featuredImageAlt": "Inspecting an apartment for an inter-floor leak in Sydney",
+    "isHome": false
   },
   {
     "id": "pg-18",
@@ -287,14 +297,15 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:12:36.592Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T04:07:19.588Z",
     "createdBy": "derek",
     "category": "Services",
     "featuredImage": "/uploads/sle-thermal-hero-camera.jpg",
-    "featuredImageAlt": "Thermal imaging camera reading a wet area behind tiles"
+    "featuredImageAlt": "Thermal imaging camera reading a wet area behind tiles",
+    "isHome": false
   },
   {
     "id": "pg-19",
@@ -306,14 +317,15 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:12:53.013Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T00:50:01.637Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T04:08:02.254Z",
     "createdBy": "derek",
     "category": "Services",
     "featuredImage": "/uploads/sle-wall-hero-damp.jpg",
-    "featuredImageAlt": "Moisture mapping a damp internal wall in Sydney"
+    "featuredImageAlt": "Moisture mapping a damp internal wall in Sydney",
+    "isHome": false
   },
   {
     "id": "pg-20",
