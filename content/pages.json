@@ -28,12 +28,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T02:52:34.075Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T02:00:30.370Z",
     "updatedBy": "joshua",
     "createdAt": "2026-11-07T03:08:07.889Z",
     "createdBy": "derek",
-    "noindex": true
+    "noindex": true,
+    "isHome": false
   },
   {
     "id": "pg-5",
@@ -45,13 +46,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-11-09T06:05:45.880Z",
-    "updatedBy": "sebastian",
+    "status": "deleted",
+    "updatedAt": "2026-11-24T02:00:30.370Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-11-07T03:08:47.733Z",
     "createdBy": "derek",
     "featuredImage": "/uploads/sle-process-book.jpg",
-    "featuredImageAlt": "Tell us what youre seeing"
+    "featuredImageAlt": "Tell us what youre seeing",
+    "isHome": false
   },
   {
     "id": "pg-7",
