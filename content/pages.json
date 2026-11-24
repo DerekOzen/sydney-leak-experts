@@ -804,13 +804,14 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T02:38:12.526Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-09T06:06:18.068Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-24T01:57:01.886Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/sle-contact-sydney-map.jpg",
-    "featuredImageAlt": "Map of the Sydney Leak Experts leak detection service area across Greater Sydney"
+    "featuredImageAlt": "Map of the Sydney Leak Experts leak detection service area across Greater Sydney",
+    "isHome": false
   },
   {
     "id": "pg-50",
